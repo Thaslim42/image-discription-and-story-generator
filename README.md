@@ -1,1 +1,1 @@
-# image-discription-and-story-generator
+# image-description-and-story-generator
